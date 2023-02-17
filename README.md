@@ -9,4 +9,4 @@
 
 &#9989;You can change all the necessary parameters, everything is marked with comments to make it easier for you to understand. 
 
-&#9989;I draw your attention to the limitation of the camera, you can set certain coordinates where you can't fly or walk. By default, you just move to the initial coordinates, but I hope you understand.
+&#9989;I draw your attention to the limitation of the camera, you can set certain coordinates where you can't fly or walk. By default, you just move to the initial coordinates, but I hope you understand...
